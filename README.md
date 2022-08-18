@@ -10,6 +10,8 @@ ucanaccess-5.0.1.jar
 
 This ucanaccess-5.0.1.jar is main library to connect your project with MS Access
 
+"You may also change the path of pictures used in Project"
+
 IF YOU ARE FACING ANY PROBLEM CONTACT ME:
 +923188334442
 sabbas486249@gmail.com
